@@ -1,0 +1,8 @@
+file_format: "1"
+id: cornexiao
+Name: cornexiao
+type: shield
+url: https://github.com/noaroesaker/zmk_corne
+requires: [seeed_xiao]
+features:
+  - keys
